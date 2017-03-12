@@ -5,12 +5,12 @@
   "private": true,
   "author": "Jared Stilwell <jared.k.stilwell@gmail.com> (https://github.com/jared-stilwell)",
   "dependencies": {
-    "escomplex-js": "0.1.x",
-    "express": "3.4.x",
+    "escomplex-js": "~1.2.0",
+    "express": "~4.15.2",
     "forever": "^0.15.1",
     "hogan-express": "0.5.x",
     "pub-sub": "0.1.x",
-    "stylus": "0.39.x"
+    "stylus": "~0.54.5"
   },
   "scripts": {
     "start": "node ./app.js"
