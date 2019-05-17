@@ -6,7 +6,7 @@
   "author": "Jared Stilwell <jared.k.stilwell@gmail.com> (https://github.com/jared-stilwell)",
   "dependencies": {
     "escomplex-js": "~1.2.0",
-    "express": "~4.15.2",
+    "express": "~4.17.0",
     "forever": "^0.15.1",
     "hogan-express": "0.5.x",
     "pub-sub": "0.1.x",
